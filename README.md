@@ -99,13 +99,10 @@ Explore my other repositories, experiments, and learning projects.
 
 ---
 
-## `./contribution-activity`
 
-<div align="center">
+## Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samamahacks&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-
-</div>
+![GitHub Contributions](https://ghchart.rshah.org/00ff41/samamahacks)
 
 ---
 
