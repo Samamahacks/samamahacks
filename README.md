@@ -17,16 +17,16 @@
 
 ---
 
-## `whoami`
+## `who am i?`
 
 ```bash
-samama@github:~$ whoami
+samama_github: Who am i?
 Samama Hassan
 
-samama@github:~$ interests
+samama_github: Interests
 Cybersecurity | Cryptography | Network Forensics
 
-samama@github:~$ mission
+samama_github: Mission
 Learn, build, analyze, and improve digital security.
 ```
 
@@ -43,7 +43,7 @@ my technical skills.
 
 ---
 
-## `./tech-stack`
+## `Tech-stack`
 
 <div align="center">
 
@@ -59,16 +59,16 @@ my technical skills.
 
 ---
 
-## `./featured-projects`
+## `Featured-projects`
 
-### 🛡️ Network Forensics Suite
+###  Network Forensics Suite
 
 A project focused on network forensics, traffic analysis,
 and investigating unusual network activity.
 
 [![Network Forensics](https://img.shields.io/badge/Explore-Repository-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/samamahacks/Samama-network-forensics-suite)
 
-### 🔐 Cryptography Research
+### Cryptography Research
 
 A research and educational project covering cryptography
 concepts, encryption, key exchange, and digital signatures.
@@ -83,7 +83,7 @@ Explore my other repositories, experiments, and learning projects.
 
 ---
 
-## `./github-stats`
+## `Github-stats`
 
 <div align="center">
 
@@ -100,13 +100,13 @@ Explore my other repositories, experiments, and learning projects.
 ---
 
 
-## Contribution Activity
+## `Contribution Activity`
 
 ![GitHub Contributions](https://ghchart.rshah.org/00ff41/samamahacks)
 
 ---
 
-## `./connect`
+## `Connect`
 
 <div align="center">
 
