@@ -11,7 +11,6 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-samamahacks-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/samamahacks)
-[![Profile Views](https://komarev.com/ghpvc/?username=samamahacks&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS)](https://github.com/samamahacks)
 
 </div>
 
